@@ -3,7 +3,7 @@
 
 <img src = "https://media.giphy.com/media/RsZ3PEHTxJp9zjTZ0C/giphy.gif" width="300"/>
 
-Soy David, un estudiante de Ingenieria de Tecnologias de la Informacion(TIC´S). Un apasionado por la programacion y tecnologia. 
+Soy David, un estudiante de Ingenieria de Tecnologias de la Informacion(TIC´S). Un apasionado por la programacion y tecnologia me gusta estar en constante actualizacion. 
 
 ### Skills 
 <p align="left">
