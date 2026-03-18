@@ -3,7 +3,7 @@
 
 <img src = "https://media.giphy.com/media/RsZ3PEHTxJp9zjTZ0C/giphy.gif" width="300"/>
 
-# ¡Hola! Soy Frankie Barreiro 👋
+# ¡Hola! Soy Franklin Barreiro 👋
 **Software Engineer | Backend Developer | TI Engineer**
 
 Ingeniero en TI enfocado en construir sistemas escalables y automatizaciones de alto impacto. Me apasiona el ecosistema de **Python** y la arquitectura de software moderna.
