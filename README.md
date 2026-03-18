@@ -3,7 +3,18 @@
 
 <img src = "https://media.giphy.com/media/RsZ3PEHTxJp9zjTZ0C/giphy.gif" width="300"/>
 
-Soy David, un estudiante de Ingenieria de Tecnologias de la Informacion(TIC´S). Un apasionado por la programacion y tecnologia me gusta estar en constante actualizacion. 
+# ¡Hola! Soy Frankie Barreiro 👋
+**Software Engineer | Backend Developer | TI Engineer**
+
+Ingeniero en TI enfocado en construir sistemas escalables y automatizaciones de alto impacto. Me apasiona el ecosistema de **Python** y la arquitectura de software moderna.
+
+
+
+### 🚀 Proyecto Destacado: "El Edificio Conectado" (SaaS)
+Actualmente desarrollando una plataforma **SaaS** para la gestión de arrendamientos:
+- **Arquitectura:** Multi-tenant con esquemas independientes en PostgreSQL.
+- **Backend:** Django Rest Framework con lógica de contratos y pagos.
+- **Infraestructura:** Contenedores Docker optimizados y servidor Nginx.
 
 ### Skills 
 <p align="left">
